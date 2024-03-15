@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+text-align: center;
+font-style: italic;
+color:rgb(104, 37, 119);
+
+
+}
+h3{
+    color: rgb(148, 27, 65);
+}
+div{
+    color: rgb(26, 3, 20);
+font-style:italic;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial, sans-serif';
+letter-spacing: 1px;
+line-height: 20px;
+}
+
+
+iframe{
+    width: 99%;
+    height: 400px;
+    padding: 10px;
+
+
+ 
+border-color:red green  blueviolet rgb(255, 0, 132); 
+border-width: 5px 4px   5px 4px ;
+border-style:ridge;
+
+}
+
+
+
