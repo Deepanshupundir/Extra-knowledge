@@ -1,6 +1,9 @@
 body{
     background-color: bisque;
-    margin: auto;
+ 
+    margin: 0;
+overflow: auto;
+    
 }
 
 
