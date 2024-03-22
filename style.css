@@ -1,5 +1,6 @@
 *{
-    margin:0% auto;                 
+    margin:0% auto;  
+    box-sizing: border-box;               
 }
 body{
     background-color: rgb(204, 194, 182);
@@ -30,7 +31,7 @@ line-height: 20px;
 
 
 iframe{
-    width: 99%;
+    width: 100%;
     height: 400px;
     padding: 10px;
 
@@ -61,7 +62,7 @@ color:darkmagenta;
 border-radius: 10px;
 }
 img{
-    width: 260px;
+    width: 240px;
     height: 300px;
     border: 5px;
      border-color: aqua;
